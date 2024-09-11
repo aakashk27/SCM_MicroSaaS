@@ -1,0 +1,28 @@
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual environment
+myenv/
+
+# Django stuff:
+*.log
+*.sqlite3
+db.sqlite3
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Other OS files
+.DS_Store
+Thumbs.db
